@@ -99,3 +99,19 @@ Here's a list of resources to help jump start a hackathon project leveraging fre
 •	Cooper & Thief https://www.cooperandthief.com/
 
 •	Black Box https://www.blackboxwines.com/
+
+<h2>Hackathon Challenge</h2>
+
+Best Constellation Brands Consumer Experience
+
+Help consumers aged 21+ interact with lovable brands in unique ways with creative use of an emerging technology (AR/VR, AI, IOT, Blockchain, etc.). Your innovation could support learning about wine at a restaurant, or a fun experience with the X Games leveraging Pacifico's partnership. Let your creative juices flow and create a fun and engaging experience for consumers of Constellation Brands products.
+
+<h3>Sample Project Ideas</h3>
+
+- Augmented Reality Tasting  - guides user through a wine, beer or spirits tasting
+- Cocktail Recipe Guide
+- Augmented or Virtual Reality with brand partnerships - US ski team skiier skis down the side of a Pacifico bottle, virtual reality destination to a beach chair on a tropical beach with a Corona on the beach chair
+- Create a custom label and view it in AR
+- Voice skill to talk to coach on game day (Corona football promotion)
+
+
