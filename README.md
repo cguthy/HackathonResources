@@ -2,6 +2,13 @@
 
 Want to hear from us on internship and employment opportunities? Submit your information here: http://bit.ly/WicHacks
 
+We have 2 internships we are looking to fill:
+
+3D Design Intern: https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Victor-New-York/XMLNAME-3D-Design-Intern_R-11226
+
+Creative Technologist Intern: https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Victor-New-York/Creative-Technologist-Intern_R-11227
+
+
 Here's a list of resources to help jump start a hackathon project leveraging free tools.
 
 <h2>Technical Resources</h2>
