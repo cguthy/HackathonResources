@@ -107,6 +107,8 @@ Here's a list of resources to help jump start a hackathon project leveraging fre
 
 •	Black Box https://www.blackboxwines.com/
 
+•	www.vettedvine.com - Wine recommendations & food pairings
+
 <h2>Hackathon Challenge</h2>
 
 Best Constellation Brands Consumer Experience
